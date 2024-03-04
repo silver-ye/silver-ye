@@ -18,8 +18,6 @@
 </p>
 
 <h4 align="center">🌻 Tech Blog 🌻</h4>
-<div style="display:flex; flex-direction:row;">
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=silver-ye&theme=default)](https://silver-ye.tistory.com)
-</div><br>
 
 
