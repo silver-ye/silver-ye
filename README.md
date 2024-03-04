@@ -18,6 +18,8 @@
 </p>
 
 <h4 align="center">🌻 Tech Blog 🌻</h4>
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=silver-ye&postId=92)](https://github.com/loosie/github-readme-tistory-card)
+<div style="display:flex; flex-direction:row;">
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=silver-ye&theme=default)](https://silver-ye.tistory.com)
+</div><br>
 
 
