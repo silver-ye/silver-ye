@@ -18,10 +18,10 @@
 </p>
 
 <h4 align="center">🌻 Tech Blog 🌻</h4>
-<div style="display:flex; flex-direction:row;">
+<div align="center">
   <a href="https://silver-ye.tistory.com">
-      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-  </a>
+  <img src="https://github-readme-tistory-card.vercel.app/api?name=silver-ye&theme=default" alt="Tistory's Card">
+</a>
 </div>
 
 
