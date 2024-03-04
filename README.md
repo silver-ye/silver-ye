@@ -18,6 +18,6 @@
 </p>
 
 <h4 align="center">🌻 Tech Blog 🌻</h4>
-[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=silver-ye&postId=92)]
+[![Tistory Newest Post](https://tistory-readme-stats.vercel.app/api?name=silver-ye&postId=92)](https://silver-ye.tistory.com/92)
 
 
