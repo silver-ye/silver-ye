@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Silver%20Ye's%20GitHub%20🍇&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<h3 align="center">Silver-ye GitHub🍇</h3>
 
-<h3 align="center">🔍 Tech Stack</h3>
+<h4 align="center">🔍 Tech Stack</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
@@ -17,5 +17,5 @@
   <img src="https://img.shields.io/badge/Apache Airflow-017CEE?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
 </p>
 
-<h3 align="center">🌻 Tech Blog 🌻</h3>
-![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=silver-ye&theme=default)
+<h4 align="center">🌻 Tech Blog 🌻</h4>
+[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=silver-ye&theme=default)](https://silver-ye.tistory.com/)
