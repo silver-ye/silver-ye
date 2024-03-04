@@ -18,6 +18,9 @@
 </p>
 
 <h4 align="center">🌻 Tech Blog 🌻</h4>
+<a href="https://silver-ye.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+</a>
 [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=silver-ye&theme=default)](https://silver-ye.tistory.com)
 
 
